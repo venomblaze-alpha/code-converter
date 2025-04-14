@@ -56,7 +56,5 @@ Or with Bun:
 bun run dev
 ```
 Open your browser and visit:
-```bash
-http://localhost:3000
-```
+[http://localhost:3000]([https://nodejs.org](http://localhost:3000)
 📥 [Download Project as ZIP](https://github.com/venomblaze-alpha/code-converter/archive/refs/heads/main.zip)
