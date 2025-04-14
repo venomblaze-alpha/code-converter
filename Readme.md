@@ -21,15 +21,21 @@ This will create a new directory named `next-shadcn-template` in your current di
    Run the following command to install the project dependencies:
 
    ```sh
-   npm/bun install
+   npm install
    ```
+   #or
+   ```sh
+   bun install
 
-3. **Start the development server:**
+4. **Start the development server:**
    After installing the dependencies, start the development server by running:
 
    ```sh
-   npm/bun run dev
+   npm run dev
    ```
+   #or
+   ```sh
+   bun run dev
 
    Now, you should be able to see the application running at `localhost:3000` in your web browser! ✨
 
