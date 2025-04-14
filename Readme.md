@@ -18,7 +18,7 @@ Convert code between languages or formats in seconds using AI-powered magic. Bui
 
 ## 📦 Prerequisites
 
-Ensure you have **[Node.js](https://nodejs.org)** or **[Node.js](https://bun.sh)** installed.
+Ensure you have **[Node.js](https://nodejs.org)** or **[Bun](https://bun.sh)** installed.
 
 Check your version:
 
