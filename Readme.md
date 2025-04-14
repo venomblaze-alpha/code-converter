@@ -26,62 +26,36 @@ Check your version:
 node -v
 # or
 bun -v
+```
 If not installed, grab it from nodejs.org or bun.sh.
 
 🛠️ Installation
 1. Clone the Repository
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/venomblaze-alpha/code-converter.git
 cd code-converter
+```
+
 2. Install Dependencies
 Using npm:
-
-bash
-Copy
-Edit
+```bash
 npm install
+```
 Or with Bun:
-
-bash
-Copy
-Edit
+```bash
 bun install
+```
+
 3. Start the Dev Server
 Using npm:
-
-bash
-Copy
-Edit
+```bash
 npm run dev
+```
 Or with Bun:
-
-bash
-Copy
-Edit
+```bash
 bun run dev
-Open your browser and visit: http://localhost:3000
-
-📥 Download as ZIP
-Prefer not to use Git? You can download the project as a ZIP file and extract it manually.
-
-🤝 Contributing
-We welcome community contributions!
-Feel free to open issues, suggest features, or create pull requests.
-
-Want to contribute?
-
-Fork the repo
-
-Create your feature branch (git checkout -b feature/amazing-feature)
-
-Commit your changes (git commit -m 'Add amazing feature')
-
-Push to the branch (git push origin feature/amazing-feature)
-
-Open a pull request 🚀
-
-👤 Owner
-Built and maintained by Venom
-Feel free to reach out with any questions, ideas, or feedback!
+```
+Open your browser and visit:
+```bash
+http://localhost:3000
+```
