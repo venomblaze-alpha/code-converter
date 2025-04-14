@@ -1,6 +1,6 @@
 # Venom Converter : convert codes effortlessly with AI 🔥
 
-![screenshot](src/app/opengraph-image.jpg)
+![screenshot](public/opengraph-image.jpg)
 
 ### Prerequisites
 
